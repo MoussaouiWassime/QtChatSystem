@@ -1,0 +1,6 @@
+chat-server/asio-asio-1-12-2/** linguist-generated=true
+chat-client/build/** linguist-generated=true
+chat-server/Makefile linguist-generated=true
+**/*.pro.user linguist-generated=true
+*.zip linguist-generated=true
+*.exe linguist-generated=true
