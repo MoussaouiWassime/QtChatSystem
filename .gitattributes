@@ -3,3 +3,4 @@ Makefile linguist-generated=true
 *.mk linguist-generated=true
 *.pro linguist-generated=true
 *.pri linguist-generated=true
+*.h linguist-language=C++
