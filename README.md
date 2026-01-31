@@ -20,6 +20,7 @@ Ce projet est une application de messagerie instantanée client-serveur dévelop
 ### Pour le serveur
 - **Compilateur C++** : g++ avec support C++14 ou supérieur
 - **ASIO** : Bibliothèque réseau (incluse dans le projet, version 1.12.2)
+  - Installation a l'aide de ```curl -L -o asio.zip [https://sourceforge.net/projects/asio/files/asio/1.24.0/asio-1.24.0.zip/download](https://sourceforge.net/projects/asio/files/asio/1.24.0/asio-1.24.0.zip/download) && tar -xf asio.zip && rm asio.zip``` 
 - **Windows** : Bibliothèques `ws2_32` et `mswsock` (socket Windows)
 
 ### Pour le client
